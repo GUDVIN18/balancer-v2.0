@@ -1,0 +1,4200 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:04:55
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 101________________________
+
+
+________________________ACCEPTED 101________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 101________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:08:49
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 102________________________
+
+
+________________________ACCEPTED 102________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 102________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 103________________________
+
+
+________________________ACCEPTED 103________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 103________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 104________________________
+
+
+________________________ACCEPTED 104________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 104________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:17:43
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:18:17
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:18:25
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 105________________________
+
+
+________________________ACCEPTED 105________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 105________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 106________________________
+
+
+________________________ACCEPTED 106________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 106________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 107________________________
+
+
+________________________ACCEPTED 107________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 107________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 108________________________
+
+
+________________________ACCEPTED 108________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 108________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 109________________________
+
+
+________________________ACCEPTED 109________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 109________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:33:21
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 110________________________
+
+
+________________________ACCEPTED 110________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 110________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 111________________________
+
+
+________________________ACCEPTED 111________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 111________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 112________________________
+
+
+________________________ACCEPTED 112________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 112________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:39:26
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 113________________________
+
+
+
+________________________ACCEPTED 113________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 113________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:40:06
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 22:40:18
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 114________________________
+
+
+________________________ACCEPTED 114________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 114________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 115________________________
+
+
+________________________ACCEPTED 115________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 115________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 116________________________
+
+
+________________________ACCEPTED 116________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 116________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 117________________________
+
+
+________________________ACCEPTED 117________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 117________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 118________________________
+
+
+________________________ACCEPTED 118________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 118________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 119________________________
+
+
+________________________ACCEPTED 119________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 120________________________
+
+
+________________________ACCEPTED 120________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 119________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 120________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [405]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 05, 2024 - 23:25:51
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 121________________________
+
+
+________________________ACCEPTED 121________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 122________________________
+
+
+________________________ACCEPTED 122________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 121________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 122________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 00:01:34
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 00:11:03
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 00:22:43
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 00:24:22
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 123________________________
+
+
+________________________ACCEPTED 123________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 124________________________
+
+
+________________________ACCEPTED 124________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 123________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 124________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 12:50:23
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 17:59:27
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 18:09:04
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 18:14:08
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 125________________________
+
+
+________________________ACCEPTED 125________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 125________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 126________________________
+
+
+________________________ACCEPTED 126________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 126________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 127________________________
+
+
+________________________ACCEPTED 127________________________
+
+
+Успешно приняли данные
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 127________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 18:17:48
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 128________________________
+
+
+________________________ACCEPTED 128________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 128________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 18:18:19
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 06, 2024 - 18:18:27
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 129________________________
+
+
+________________________ACCEPTED 129________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 129________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 130________________________
+
+
+________________________ACCEPTED 130________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 130________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 131________________________
+
+
+________________________ACCEPTED 131________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 131________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+Успешно приняли данные
+Успешно приняли данные
+Успешно приняли данные
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 132________________________
+
+
+________________________ACCEPTED 132________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 132________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:38:07
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 133________________________
+
+
+________________________ACCEPTED 133________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 133________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:41:32
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 134________________________
+
+
+________________________ACCEPTED 134________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:42:59
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 134________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:43:36
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:44:14
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:48:47
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:48:56
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:48:58
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 135________________________
+
+
+________________________ACCEPTED 135________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:49:08
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 136________________________
+
+
+________________________ACCEPTED 136________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 137________________________
+
+
+________________________ACCEPTED 137________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 135________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:49:26
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 138________________________
+
+
+________________________ACCEPTED 138________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 136________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 137________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:49:41
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 139________________________
+
+
+________________________ACCEPTED 139________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 138________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 139________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:50:08
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 140________________________
+
+
+________________________ACCEPTED 140________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:50:15
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 141________________________
+
+
+________________________ACCEPTED 141________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 140________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:50:39
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 141________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 142________________________
+
+
+________________________ACCEPTED 142________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 142________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:51:04
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 143________________________
+
+
+________________________ACCEPTED 143________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 143________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:51:59
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:52:03
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 144________________________
+
+
+________________________ACCEPTED 144________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 144________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:53:10
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 145________________________
+
+
+________________________ACCEPTED 145________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:53:30
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 146________________________
+
+
+________________________ACCEPTED 146________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 145________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 146________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:55:07
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 147________________________
+
+
+________________________ACCEPTED 147________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:55:29
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 148________________________
+
+
+________________________ACCEPTED 148________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 147________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [500]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 148________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:56:12
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:56:25
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 01:57:17
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:02:43
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:03:49
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:03:52
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 149________________________
+
+
+________________________ACCEPTED 149________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 150________________________
+
+
+________________________ACCEPTED 150________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 149________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 150________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:06:04
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:06:18
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:06:23
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:08:22
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 151________________________
+
+
+________________________ACCEPTED 151________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 152________________________
+
+
+________________________ACCEPTED 152________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 151________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 152________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 153________________________
+
+
+________________________ACCEPTED 153________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 153________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [200]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:12:55
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 154________________________
+
+
+________________________ACCEPTED 154________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 154________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 155________________________
+
+
+________________________ACCEPTED 155________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 156________________________
+
+
+________________________ACCEPTED 156________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 155________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 156________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:25:19
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:26:08
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 07, 2024 - 02:27:41
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 157________________________
+
+
+________________________ACCEPTED 157________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 157________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 158________________________
+
+
+________________________ACCEPTED 158________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 158________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 159________________________
+
+
+________________________ACCEPTED 159________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 159________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 160________________________
+
+
+________________________ACCEPTED 160________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 160________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 161________________________
+
+
+________________________ACCEPTED 161________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 161________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 162________________________
+
+
+________________________ACCEPTED 162________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 162________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 163________________________
+
+
+________________________ACCEPTED 163________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 163________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 164________________________
+
+
+________________________ACCEPTED 164________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 164________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 165________________________
+
+
+________________________ACCEPTED 165________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 165________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 166________________________
+
+
+________________________ACCEPTED 166________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 166________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 167________________________
+
+
+________________________ACCEPTED 167________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 167________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 168________________________
+
+
+________________________ACCEPTED 168________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 168________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 169________________________
+
+
+________________________ACCEPTED 169________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 169________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 170________________________
+
+
+________________________ACCEPTED 170________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 170________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 171________________________
+
+
+________________________ACCEPTED 171________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 171________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 171________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 172________________________
+
+
+________________________ACCEPTED 172________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 172________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 173________________________
+
+
+________________________ACCEPTED 173________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 173________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 174________________________
+
+
+________________________ACCEPTED 174________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 174________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 175________________________
+
+
+________________________ACCEPTED 175________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 175________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 176________________________
+
+
+________________________ACCEPTED 176________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 176________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 177________________________
+
+
+________________________ACCEPTED 177________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 177________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 178________________________
+
+
+________________________ACCEPTED 178________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 178________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 179________________________
+
+
+________________________ACCEPTED 179________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 179________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 180________________________
+
+
+________________________ACCEPTED 180________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 180________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 181________________________
+
+
+________________________ACCEPTED 181________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 181________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 182________________________
+
+
+________________________ACCEPTED 182________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 182________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 183________________________
+
+
+________________________ACCEPTED 183________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 183________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 184________________________
+
+
+________________________ACCEPTED 184________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 184________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 185________________________
+
+
+________________________ACCEPTED 185________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 185________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 186________________________
+
+
+________________________ACCEPTED 186________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 186________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 187________________________
+
+
+________________________ACCEPTED 187________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 187________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 188________________________
+
+
+________________________ACCEPTED 188________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 188________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 189________________________
+
+
+________________________ACCEPTED 189________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 189________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 190________________________
+
+
+________________________ACCEPTED 190________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 22, 2024 - 12:27:33
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 217________________________
+
+
+________________________ACCEPTED 217________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 217________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 218________________________
+
+
+________________________ACCEPTED 218________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 219________________________
+
+
+________________________ACCEPTED 219________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 220________________________
+
+
+________________________ACCEPTED 220________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 221________________________
+
+
+________________________ACCEPTED 221________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 219________________________
+
+
+finish_task_status
+Отправка пользователю
+-----ВХОД ВЫПОЛНЕН---------
+--------- task_end_alert <Response [404]>
+________________________COMPLETED 218________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 220________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 221________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 222________________________
+
+
+________________________ACCEPTED 222________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 222________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 223________________________
+
+
+________________________ACCEPTED 223________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 223________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 224________________________
+
+
+________________________ACCEPTED 224________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 225________________________
+
+
+________________________ACCEPTED 225________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 224________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 225________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 226________________________
+
+
+________________________ACCEPTED 226________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 227________________________
+
+
+________________________ACCEPTED 227________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 226________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 227________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 228________________________
+
+
+________________________ACCEPTED 228________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 229________________________
+
+
+________________________ACCEPTED 229________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 228________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 229________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 230________________________
+
+
+________________________ACCEPTED 230________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 230________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 231________________________
+
+
+________________________ACCEPTED 231________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 231________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 232________________________
+
+
+________________________ACCEPTED 232________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 233________________________
+
+
+________________________ACCEPTED 233________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 232________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 233________________________
+
+
+finish_task_status
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 13:52:55
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:01:24
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:23:07
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:23:21
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:23:32
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:23:40
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:26:44
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:37:26
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:38:08
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 15:38:51
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 16:55:13
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 261________________________
+
+
+________________________ACCEPTED 261________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 261________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 262________________________
+
+
+________________________ACCEPTED 262________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 262________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:02:14
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:02:27
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:02:38
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:02:40
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 263________________________
+
+
+________________________ACCEPTED 263________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 263________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:07:20
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 264________________________
+
+
+________________________ACCEPTED 264________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:07:53
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 264________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:09:02
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:09:51
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 265________________________
+
+
+________________________ACCEPTED 265________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 265________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:25:04
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 269________________________
+
+
+________________________ACCEPTED 269________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 270________________________
+
+
+________________________ACCEPTED 270________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 270________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 17:59:56
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 275________________________
+
+
+________________________ACCEPTED 275________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 19:11:50
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 279________________________
+
+
+________________________ACCEPTED 279________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 19:13:48
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 280________________________
+
+
+________________________ACCEPTED 280________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 280________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 19:21:02
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 281________________________
+
+
+________________________ACCEPTED 281________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 281________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 19:23:21
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 282________________________
+
+
+________________________ACCEPTED 282________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 282________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 19:29:24
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 27, 2024 - 19:47:15
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 285________________________
+
+
+________________________ACCEPTED 285________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 285________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 286________________________
+
+
+________________________ACCEPTED 286________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 286________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 287________________________
+
+
+________________________ACCEPTED 287________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 287________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 288________________________
+
+
+________________________ACCEPTED 288________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 288________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 289________________________
+
+
+________________________ACCEPTED 289________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 289________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+GenerationProcess с id=999 не существует
+________________________ACCEPTED 999________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+GenerationProcess с id=999 не существует
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 28, 2024 - 19:30:26
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 291________________________
+
+
+________________________ACCEPTED 291________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 291________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 292________________________
+
+
+________________________ACCEPTED 292________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 292________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 293________________________
+
+
+________________________ACCEPTED 293________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 293________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 294________________________
+
+
+________________________ACCEPTED 294________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 294________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 295________________________
+
+
+________________________ACCEPTED 295________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 295________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 296________________________
+
+
+________________________ACCEPTED 296________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 296________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 297________________________
+
+
+________________________ACCEPTED 297________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 297________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 298________________________
+
+
+________________________ACCEPTED 298________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 298________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 299________________________
+
+
+________________________ACCEPTED 299________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 299________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 300________________________
+
+
+________________________ACCEPTED 300________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 300________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 301________________________
+
+
+________________________ACCEPTED 301________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 301________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 302________________________
+
+
+________________________ACCEPTED 302________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 302________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 303________________________
+
+
+________________________ACCEPTED 303________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 303________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 304________________________
+
+
+________________________ACCEPTED 304________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 304________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 305________________________
+
+
+________________________ACCEPTED 305________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 305________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 306________________________
+
+
+________________________ACCEPTED 306________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 306________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 307________________________
+
+
+________________________ACCEPTED 307________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 307________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 308________________________
+
+
+________________________ACCEPTED 308________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 308________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 309________________________
+
+
+________________________ACCEPTED 309________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 309________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 310________________________
+
+
+________________________ACCEPTED 310________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 310________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 311________________________
+
+
+________________________ACCEPTED 311________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 311________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 312________________________
+
+
+________________________ACCEPTED 312________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 312________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 313________________________
+
+
+________________________ACCEPTED 313________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 313________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 314________________________
+
+
+________________________ACCEPTED 314________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 314________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 315________________________
+
+
+________________________ACCEPTED 315________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 315________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 316________________________
+
+
+________________________ACCEPTED 316________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 316________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 317________________________
+
+
+________________________ACCEPTED 317________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 317________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 318________________________
+
+
+________________________ACCEPTED 318________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 318________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 319________________________
+
+
+________________________ACCEPTED 319________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 319________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 320________________________
+
+
+________________________ACCEPTED 320________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 320________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 321________________________
+
+
+________________________ACCEPTED 321________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 321________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 322________________________
+
+
+________________________ACCEPTED 322________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 322________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 323________________________
+
+
+________________________ACCEPTED 323________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 323________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 324________________________
+
+
+________________________ACCEPTED 324________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 324________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 325________________________
+
+
+________________________ACCEPTED 325________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 325________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 326________________________
+
+
+________________________ACCEPTED 326________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 326________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 327________________________
+
+
+________________________ACCEPTED 327________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 327________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 328________________________
+
+
+________________________ACCEPTED 328________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 328________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 329________________________
+
+
+________________________ACCEPTED 329________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 329________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 330________________________
+
+
+________________________ACCEPTED 330________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 330________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 331________________________
+
+
+________________________ACCEPTED 331________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 331________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 332________________________
+
+
+________________________ACCEPTED 332________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 332________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 333________________________
+
+
+________________________ACCEPTED 333________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 333________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 334________________________
+
+
+________________________ACCEPTED 334________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 334________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 335________________________
+
+
+________________________ACCEPTED 335________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 335________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 336________________________
+
+
+________________________ACCEPTED 336________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 337________________________
+
+
+________________________ACCEPTED 337________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 338________________________
+
+
+________________________ACCEPTED 338________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 336________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 337________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 338________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 339________________________
+
+
+________________________ACCEPTED 339________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 339________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 340________________________
+
+
+________________________ACCEPTED 340________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 340________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 341________________________
+
+
+________________________ACCEPTED 341________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 341________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 342________________________
+
+
+________________________ACCEPTED 342________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 342________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 343________________________
+
+
+________________________ACCEPTED 343________________________
+
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 344________________________
+
+
+________________________ACCEPTED 344________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 343________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 344________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 345________________________
+
+
+________________________ACCEPTED 345________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Файл не был передан 'NoneType' object has no attribute 'name'
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2024 - 22:38:46
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2024 - 22:38:55
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2024 - 22:39:01
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 346________________________
+
+
+________________________ACCEPTED 346________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 346________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 347________________________
+
+
+________________________ACCEPTED 347________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 347________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 348________________________
+
+
+________________________ACCEPTED 348________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 348________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2024 - 22:45:17
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 349________________________
+
+
+________________________ACCEPTED 349________________________
+
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2024 - 22:46:00
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 349________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2024 - 22:46:24
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 350________________________
+
+
+________________________ACCEPTED 350________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 350________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 351________________________
+
+
+________________________ACCEPTED 351________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 351________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 352________________________
+
+
+________________________ACCEPTED 352________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 352________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 353________________________
+
+
+________________________ACCEPTED 353________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 353________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 354________________________
+
+
+________________________ACCEPTED 354________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 354________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 355________________________
+
+
+________________________ACCEPTED 355________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 355________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 356________________________
+
+
+________________________ACCEPTED 356________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 356________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 357________________________
+
+
+________________________ACCEPTED 357________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 357________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 358________________________
+
+
+________________________ACCEPTED 358________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 358________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 359________________________
+
+
+________________________ACCEPTED 359________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 359________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 02, 2024 - 13:17:20
+Django version 5.1.2, using settings 'face_to_face_server0.settings'
+Starting development server at http://0.0.0.0:8585/
+Quit the server with CONTROL-C.
+
+Успешно приняли данные
+
+ ---- ПОЛЬЗОВАТЕЛЕЙ В ОЧЕРЕДИ ПЕРЕД НОВОЙ ГЕНЕРЦИЕЙ 0
+
+________________________WAITING 360________________________
+
+
+________________________ACCEPTED 360________________________
+
+
+-----ВХОД ВЫПОЛНЕН---------
+________________________COMPLETED 360________________________
+
+
+finish_task_status
+Отправка пользователю
+--------- task_end_alert <Response [404]>
